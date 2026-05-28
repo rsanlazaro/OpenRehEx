@@ -1,0 +1,2 @@
+This project is released under the MIT License, unless otherwise stated.
+You are free to use, modify, and distribute the code and designs with attribution.
